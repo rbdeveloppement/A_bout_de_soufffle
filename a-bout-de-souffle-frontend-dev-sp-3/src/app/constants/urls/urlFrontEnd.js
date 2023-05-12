@@ -1,0 +1,16 @@
+export const URL_HOME = "/";
+export const URL_LOGIN = "/login";
+export const URL_ADMIN_HOME = "/admin";
+export const URL_REGISTER = "/register";
+export const URL_LIST = "/simple-list";
+export const URL_CGV = "/cgv";
+export const URL_CGV2 = "/cgv2";
+export const URL_DISPLAY_USER = "/displayUser";
+export const URL_CONTACTFORM = "/contactForm";
+export const URL_ARTICLE = "/:id";
+export const URL_PROFILES = "/profiles";
+export const URL_SHOPPINGCART = "/shoppingcart";
+export const URL_BUYING = "/Buying";
+export const URL_ADDRESS = "/address";
+export const URL_ADDRESS_ADD = "/address/add";
+export const URL_CONFIRM_ORDER = "/confirmOrder";
